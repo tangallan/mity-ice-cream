@@ -1,0 +1,19 @@
+{
+  "name": "mity-ice-cream",
+  "version": "1.0.0",
+  "description": "Simple web applications that uses NodeJS and a simple view to decide what ice cream Mity wants",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangallan/mity-ice-cream.git"
+  },
+  "author": "Allan Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangallan/mity-ice-cream/issues"
+  },
+  "homepage": "https://github.com/tangallan/mity-ice-cream#readme"
+}
