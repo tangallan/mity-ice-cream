@@ -4,7 +4,7 @@
   "description": "Simple web applications that uses NodeJS and a simple view to decide what ice cream Mity wants",
   "main": "app.js",
   "scripts": {
-    "test": "npm start"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/tangallan/mity-ice-cream/issues"
   },
-  "homepage": "https://github.com/tangallan/mity-ice-cream#readme"
+  "homepage": "https://github.com/tangallan/mity-ice-cream#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "lodash": "^4.16.4",
+    "mongodb": "^2.2.10"
+  }
 }
